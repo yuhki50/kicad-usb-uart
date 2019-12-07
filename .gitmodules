@@ -1,0 +1,6 @@
+[submodule "library"]
+	path = library
+	url = https://github.com/yuhki50/kicad-symbols.git
+[submodule "modules"]
+	path = modules
+	url = https://github.com/yuhki50/kicad-footprints.git
